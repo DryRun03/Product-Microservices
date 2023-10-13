@@ -1,6 +1,6 @@
 package io.pankaj.productservice.service;
 
-import io.pankaj.productservice.controller.ProductResponse;
+import io.pankaj.productservice.dto.ProductResponse;
 import io.pankaj.productservice.dto.ProductRequest;
 import io.pankaj.productservice.model.Product;
 import io.pankaj.productservice.repository.ProductRepository;

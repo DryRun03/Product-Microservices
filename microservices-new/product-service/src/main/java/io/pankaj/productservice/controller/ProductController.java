@@ -1,6 +1,7 @@
 package io.pankaj.productservice.controller;
 
 import io.pankaj.productservice.dto.ProductRequest;
+import io.pankaj.productservice.dto.ProductResponse;
 import io.pankaj.productservice.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package io.pankaj.productservice.controller;
+package io.pankaj.productservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
