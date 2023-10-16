@@ -1,19 +1,17 @@
 package io.pankaj.inventoryservice;
 
-import io.pankaj.inventoryservice.model.Inventory;
-import io.pankaj.inventoryservice.repository.InventoryRepository;
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
+@EnableDiscoveryClient
 public class InventoryServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(InventoryServiceApplication.class, args);
 	}
-
+//@Todo:- These are not useful for now, m=but may need them in future
 //	@Bean
 //	public CommandLineRunner loadData(InventoryRepository inventoryRepository){
 //		return args-> {
