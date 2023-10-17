@@ -15,3 +15,7 @@ Oinventory-service/src/main/java/io/pankaj/inventoryservice/model/Inventory.java
 Oorder-service/src/main/java/io/pankaj/orderservice/OrderServiceApplication.java,d/8/d8b0d4f6f1628a0e8bd28e65c562330f49584fea
 ‹
 [inventory-service/src/main/java/io/pankaj/inventoryservice/InventoryServiceApplication.java,b/d/bd4f3bcb5ef3369e53bed4f538893d8223337711
+~
+Norder-service/src/main/java/io/pankaj/orderservice/config/WebClientConfig.java,e/e/ee74b02ae5f12489d51f6b84abed00b011044571
+|
+Lorder-service/src/main/java/io/pankaj/orderservice/service/OrderService.java,1/d/1db84e11a12725fb9b4483b55c0bf77fe3799de1
